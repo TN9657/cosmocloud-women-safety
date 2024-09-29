@@ -1,4 +1,3 @@
-/*server.js (Backend Setup)8?
 const express = require('express');
 const mongoose = require('mongoose');
 const dotenv = require('dotenv');
